@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 13 Apr 2026 00:15:13 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 13 Apr 2026 00:15:11 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[PAK VORON]]></title><description><![CDATA[Один бортДРУГОЙ БОРТ
+(всего 4+4)АРМ
+(анализ результатов моделирования)Федерат сцены - визуализация (опционально)Надо делать (Ворон)Спутниковая группировкаДелает ПАК / уже сделаноОбщий федерат связи
+(передает данные между бортами)НСУ
+(Дает задание
+в начале)Незеленые стрелочки надо описывать!Роевой алгоритм управленияНавигация
+(ГНСС / GPS)внешние факторы (шумы, ветер)псевдо cцена
+(хранит точки целей:
+коордитавы возгорания, др.)Дальномер, пеленгаторАвтопилот
+(управляем стиками)псевдо
+тех. знение
+(ViewProj камера, детектирует точки целей)Динамика
+(мат. точка,
+коптер Alt Hold,
+самолет Alt Hold)<img src="pasted-image-20260401163708.png" draggable="false" target="_self">Pasted image 20260401163708.png]]></description><link>pak-voron.html</link><guid isPermaLink="false">PAK VORON.canvas</guid><pubDate>Mon, 13 Apr 2026 00:15:13 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
