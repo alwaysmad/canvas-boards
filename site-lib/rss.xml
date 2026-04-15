@@ -1,19 +1,20 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 15 Apr 2026 13:33:30 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 15 Apr 2026 13:33:27 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[PAK VORON]]></title><description><![CDATA[Один бортПсевдо тех. знение
-ViewProj матрицы камеры, размер матрицы (viewport)
-Загружаем координаты борта из динамики
-Загружаем координаты целей из псевдо-сцены
-Отсылаем относилельные координаты точек интереса (если что-то видим)Спутниковая группировкаПсевдо cцена
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Obsidian Vault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 15 Apr 2026 14:31:59 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 15 Apr 2026 14:31:56 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[PAK VORON]]></title><description><![CDATA[Один борт<a data-href="НСУ -&gt; Общий федерат связи" href="связи/нсу-&gt;-общий-федерат-связи.html" class="internal-link" target="_self" rel="noopener nofollow">НСУ -&gt; Общий федерат связи</a>Делает ПАК / уже сделаноНадо делать (Ворон)<br>Незеленые стрелочки надо описывать!<img src="pasted-image-20260401163708.png" draggable="false" target="_self">Pasted image 20260401163708.pngАРМ
+(анализ результатов моделирования)Федерат сцены визуализация (опционально)ДРУГОЙ БОРТ
+(всего 4+4)
+В динамических средах: 20 работают + 20 мешаютСпутниковая группировкаПсевдо cцена
 хранит точки целей и препятствий: коордитавы возгорания, др.
 Списки (из конфига):
 склады,
 точка доставки,
 очаги возгорания,
-препятствия (список вершин)Внешние факторы (шумы, ветер)АРМ
-(анализ результатов моделирования)НСУ
-Загружает из конфига список: время - миссия (json), карта препятствий (Стенки и точки с отталкиванием)Дальномер, пеленгатор
+препятствия (список вершин)Дальномер, пеленгатор
 (Общий федерат взаимной навигации)
 Принимаем координаты и ориетнации всех бортов с id
-Отправляем 2d-вектор координат соседей в системе борта (с id)Роевой алгоритм управления
+Отправляем 2d-вектор координат соседей в системе борта (с id)Навигация
+(ГНСС / GPS)
+Компас
+Барометр
+Роевой алгоритм управления
 Приминаем
 Относительные координаты целей (в камере)
 С навигации: координаты, скорости, угол на север, высота
@@ -24,17 +25,20 @@ ViewProj матрицы камеры, размер матрицы (viewport)
 Высота (кнопки +-)
 Скорость поворота курса (попугаи/стики)
 Воздушная скорость (попугаи/стики)
-Динамика
+Псевдо тех. знение
+ViewProj матрицы камеры, размер матрицы (viewport)
+Загружаем координаты борта из динамики
+Загружаем координаты целей из псевдо-сцены
+Отсылаем относилельные координаты точек интереса (если что-то видим)Общий федерат связи
+передает данные (jsonы):
+нсу -&gt; все борты
+один борт -&gt; все бортыНСУ
+Загружает из конфига список: время - миссия (json), карта препятствий (Стенки и точки с отталкиванием)Динамика
 (мат. точка,
 коптер Alt Hold,
 самолет Alt Hold)Автопилот
-(управляем стиками)Навигация
-(ГНСС / GPS)
-Компас
-Барометр
-Общий федерат связи
-передает данные (jsonы):
-нсу -&gt; все борты
-один борт -&gt; все борты<img src="pasted-image-20260401163708.png" draggable="false" target="_self">Pasted image 20260401163708.pngДелает ПАК / уже сделаноНадо делать (Ворон)Незеленые стрелочки надо описывать!ДРУГОЙ БОРТ
-(всего 4+4)
-В динамических средах: 20 работают + 20 мешаютФедерат сцены визуализация (опционально)]]></description><link>pak-voron.html</link><guid isPermaLink="false">PAK VORON.canvas</guid><pubDate>Wed, 15 Apr 2026 13:33:30 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+(управляем стиками)Внешние факторы (шумы, ветер)<br><a data-href="Псевдо сцена -&gt; НСУ" href="связи/псевдо-сцена-&gt;-нсу.html" class="internal-link" target="_self" rel="noopener nofollow">Псевдо сцена -&gt; НСУ</a>]]></description><link>pak-voron.html</link><guid isPermaLink="false">PAK VORON.canvas</guid><pubDate>Wed, 15 Apr 2026 14:31:58 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="."&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Псевдо сцена -> НСУ]]></title><description><![CDATA[Передаются списки координат:
+Складов
+Точек доставки
+Препятствий (по 4 точки)
+]]></description><link>связи/псевдо-сцена-&gt;-нсу.html</link><guid isPermaLink="false">Связи/Псевдо сцена -&gt; НСУ.md</guid><pubDate>Wed, 15 Apr 2026 14:31:20 GMT</pubDate></item><item><title><![CDATA[НСУ -> Общий федерат связи]]></title><description><![CDATA[НСУ передает БВС миссию и карту препятствий -- это 2 json текста.]]></description><link>связи/нсу-&gt;-общий-федерат-связи.html</link><guid isPermaLink="false">Связи/НСУ -&gt; Общий федерат связи.md</guid><pubDate>Wed, 15 Apr 2026 14:11:39 GMT</pubDate></item></channel></rss>
